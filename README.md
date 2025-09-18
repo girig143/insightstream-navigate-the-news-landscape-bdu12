@@ -1,5 +1,6 @@
 insight stream demo video link:https://drive.google.com/file/d/1jK9y1gvDpPvnoPR7FbUJrflR5xRmnZJu/view?usp=drivesdk
 
+
 # Welcome to your Lovable project
 
 ## Project info
